@@ -91,7 +91,7 @@ The dashboard displays:
 
 ## Dashboard Preview
 
-![Credit Card Fraud Risk Analysis Dashboard](screenshots/Dashboard1.png)
+![Credit Card Fraud Risk Analysis Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 
